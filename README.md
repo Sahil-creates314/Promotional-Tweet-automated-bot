@@ -34,3 +34,8 @@ This Python project uses the Twitter API to automatically post promotional tweet
 - Product promotion
 - Event reminders
 - Content teasers
+
+
+
+
+if you have any queries (ik you will defi have lol) contact me on my email: sahilsid314@gmail.com
